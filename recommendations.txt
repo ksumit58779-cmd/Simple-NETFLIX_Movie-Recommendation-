@@ -1,0 +1,63 @@
+============================================================
+🎬 YOUR PERSONALIZED MOVIE RECOMMENDATIONS
+============================================================
+
+YOUR RATINGS:
+------------------------------------------------------------
+  Blue Valentine (2010): ⭐⭐⭐⭐ (4.0 stars)
+  La La Land (2016): ⭐⭐⭐⭐⭐ (5.0 stars)
+
+============================================================
+TOP SIMILAR USERS:
+------------------------------------------------------------
+  User 113234: 100% match
+  User 5491: 100% match
+  User 96220: 100% match
+  User 104277: 100% match
+  User 113313: 100% match
+
+============================================================
+TOP 10 RECOMMENDATIONS:
+------------------------------------------------------------
+
+1. American Beauty (1999)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 113234 (100% match)
+
+2. Sense and Sensibility (1995)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+3. Leaving Las Vegas (1995)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+4. Clueless (1995)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+5. Like Water for Chocolate (Como agua para chocolate) (1992)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+6. Four Weddings and a Funeral (1994)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+7. Reality Bites (1994)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+8. Pretty Woman (1990)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+9. Jane Eyre (1996)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+10. Emma (1996)
+   Rating: ⭐⭐⭐⭐⭐ (5.0 stars)
+   Recommended by: User 5491 (100% match)
+
+============================================================
